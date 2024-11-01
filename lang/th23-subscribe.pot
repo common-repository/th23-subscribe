@@ -1,0 +1,1119 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-27 15:07+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: th23-subscribe.php:275 th23-subscribe.php:290 th23-subscribe.php:330
+#: th23-subscribe.php:346 th23-subscribe-pro-lang.php:44
+#: th23-subscribe-pro-lang.php:59 th23-subscribe-pro-lang.php:76
+#: th23-subscribe-pro-lang.php:88
+msgid "Subscription failed"
+msgstr ""
+
+#: th23-subscribe.php:276
+msgid ""
+"Subscribe link used could not be validated - please try again, login to "
+"subscribe manually or contact an administrator"
+msgstr ""
+
+#: th23-subscribe.php:291
+msgid ""
+"Subscribe link used does not match currently logged in user - please log out "
+"and click the link again"
+msgstr ""
+
+#: th23-subscribe.php:331
+msgid "Global subscription is not available"
+msgstr ""
+
+#: th23-subscribe.php:340
+msgid ""
+"Thanks for your subscription, you will receive notifications upon new posts "
+"via mail"
+msgstr ""
+
+#: th23-subscribe.php:347
+msgid "Subscription to replies and further comments is not available"
+msgstr ""
+
+#: th23-subscribe.php:359
+#, php-format
+msgid ""
+"Thanks for your subscription to the post \"%s\", you will receive "
+"notifications upon new comments via mail"
+msgstr ""
+
+#: th23-subscribe.php:383
+msgid "Subscription successful"
+msgstr ""
+
+#: th23-subscribe.php:414 th23-subscribe.php:429
+msgid "Unsubscribe failed"
+msgstr ""
+
+#: th23-subscribe.php:415
+msgid ""
+"Unsubscribe link used could not be validated - please try again, login to "
+"unsubscribe manually or contact an administrator"
+msgstr ""
+
+#: th23-subscribe.php:430
+msgid ""
+"Unsubscribe link used does not match currently logged in user - please log "
+"out and click the link again"
+msgstr ""
+
+#: th23-subscribe.php:466
+msgid "You will not receive any further notifications upon new posts via mail"
+msgstr ""
+
+#: th23-subscribe.php:473
+#, php-format
+msgid ""
+"You unsubscribed from the post \"%s\" and will not receive further "
+"notifications upon new comments"
+msgstr ""
+
+#: th23-subscribe.php:498
+msgid "Subscription cancelled"
+msgstr ""
+
+#: th23-subscribe.php:593
+msgid "I would like to be notified upon new posts via mail"
+msgstr ""
+
+#: th23-subscribe.php:624 th23-subscribe-pro-lang.php:80
+msgid "Notify me upon responses and further comments"
+msgstr ""
+
+#: th23-subscribe.php:646
+msgid "Manage subscriptions"
+msgstr ""
+
+#: th23-subscribe.php:667
+msgid "Modify your subscriptions below."
+msgstr ""
+
+#: th23-subscribe.php:672 th23-subscribe-pro-lang.php:165
+msgid "Save"
+msgstr ""
+
+#: th23-subscribe.php:673
+msgid "Cancel"
+msgstr ""
+
+#: th23-subscribe.php:679 th23-subscribe-pro-lang.php:113
+#: th23-subscribe-pro-lang.php:116 th23-subscribe-pro-lang.php:152
+#: th23-subscribe-pro-lang.php:168 th23-subscribe-pro-lang.php:217
+#: th23-subscribe-admin.php:330 th23-subscribe-admin.php:1015
+#: th23-subscribe-admin.php:1106
+msgid "Error"
+msgstr ""
+
+#: th23-subscribe.php:679
+msgid "You are not allowed to edit your subscriptions"
+msgstr ""
+
+#: th23-subscribe.php:702
+msgid "Action cancelled, no changes have been saved"
+msgstr ""
+
+#: th23-subscribe.php:716
+msgid ""
+"Invalid request - please use the form below to manage your subscriptions"
+msgstr ""
+
+#: th23-subscribe.php:727 th23-subscribe-admin.php:1088
+msgid "Your Subscriptions"
+msgstr ""
+
+#: th23-subscribe.php:733 th23-subscribe.php:1239
+#: th23-subscribe-pro-lang.php:78
+msgid "Updates"
+msgstr ""
+
+#: th23-subscribe.php:737 th23-subscribe.php:1240
+#: th23-subscribe-pro-lang.php:79
+msgid "Get notifications for new posts via mail"
+msgstr ""
+
+#: th23-subscribe.php:741 th23-subscribe-admin.php:57
+msgid "Posts"
+msgstr ""
+
+#: th23-subscribe.php:745
+msgid ""
+"Unselect posts you want to receive no further notifications upon replies and "
+"additional comments"
+msgstr ""
+
+#: th23-subscribe.php:754
+msgid ""
+"You are currently not subscribed to any posts - to subscribe to a post write "
+"a comment and select the subscription option"
+msgstr ""
+
+#: th23-subscribe.php:796
+msgid "Changes to your subscriptions have been saved successfully"
+msgstr ""
+
+#: th23-subscribe.php:796
+msgid "An error occured - please check your subscriptions and try again"
+msgstr ""
+
+#: th23-subscribe.php:886
+msgid "This is a password protected post - please continue to read it."
+msgstr ""
+
+#: th23-subscribe.php:991
+#, php-format
+msgid "[%1$s] Your post: %2$s"
+msgstr ""
+
+#: th23-subscribe.php:992
+msgid ""
+"Your post has been published and subscribed users (like you) are now being "
+"notified about it:"
+msgstr ""
+
+#: th23-subscribe.php:996
+#, php-format
+msgid "[%1$s] New post: %2$s"
+msgstr ""
+
+#: th23-subscribe.php:997
+#, php-format
+msgid "A new post has been published on %s:"
+msgstr ""
+
+#: th23-subscribe.php:1008
+#, php-format
+msgid "Continue reading - to read the full article please visit %s"
+msgstr ""
+
+#: th23-subscribe.php:1012 th23-subscribe.php:1057
+#, php-format
+msgid "No further notifications? To unsubscribe please click %s"
+msgstr ""
+
+#: th23-subscribe.php:1035
+#, php-format
+msgid "[%1$s] Your comment on \"%2$s\""
+msgstr ""
+
+#: th23-subscribe.php:1036
+#, php-format
+msgid ""
+"Your comment on \"%s\" has been published and subscribed users (like you) "
+"are now being notified about it. You wrote:"
+msgstr ""
+
+#: th23-subscribe.php:1039
+#, php-format
+msgid "[%1$s] New comment on \"%2$s\""
+msgstr ""
+
+#: th23-subscribe.php:1040
+#, php-format
+msgid "A new comment on \"%s\" which you are subscribed to has been published:"
+msgstr ""
+
+#: th23-subscribe.php:1053
+#, php-format
+msgid "Continue reading - to read the full comment please visit %s"
+msgstr ""
+
+#: th23-subscribe.php:1179
+msgid "Displays option to subscribe to udpates"
+msgstr ""
+
+#: th23-subscribe.php:1205 th23-subscribe-pro-lang.php:39
+msgid "Subscribe"
+msgstr ""
+
+#: th23-subscribe.php:1213
+#, php-format
+msgid "Please %sregister%s to subscribe for updates"
+msgstr ""
+
+#: th23-subscribe.php:1244 th23-subscribe-pro-lang.php:205
+msgid "Title"
+msgstr ""
+
+#: th23-subscribe.php:1247
+msgid "Description"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:20
+msgid "Login not allowed."
+msgstr ""
+
+#. translators: mail body, salutation in first line of mails to users - chosen user name to be parsed in
+#: th23-subscribe-pro-lang.php:22
+#, php-format
+msgid "Hi %s,"
+msgstr ""
+
+#. translators: star is added as per WP default for indication of a mandatory field
+#: th23-subscribe-pro-lang.php:24 th23-subscribe-pro-lang.php:25
+msgid "Email"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:26 th23-subscribe-pro-lang.php:27
+#: th23-subscribe-pro-lang.php:153 th23-subscribe-pro-lang.php:154
+msgid "Name"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:28 th23-subscribe-pro-lang.php:47
+#: th23-subscribe-pro-lang.php:117 th23-subscribe-pro-lang.php:161
+#: th23-subscribe-pro-lang.php:187
+msgid "Terms of Usage"
+msgstr ""
+
+#. translators: %s: link with/or title to sites terms & conditions, as defined by admin - star is added as per WP default for indication of a mandatory field
+#. translators: %s: link with/or title to sites terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:30 th23-subscribe-pro-lang.php:190
+#, php-format
+msgid "I accept the %s and agree with processing my data"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:31 th23-subscribe-pro-lang.php:35
+msgid "What?"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:32
+msgid "A captcha is a test to distinguish humans from computers."
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:33 th23-subscribe-pro-lang.php:36
+msgid "Why?"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:34
+msgid ""
+"Internet today fights a lot of spam and this test helps to keep this website "
+"clean."
+msgstr ""
+
+#. translators: parses in "What? Why?" question into brackets and asociated tooltip, see strings before
+#: th23-subscribe-pro-lang.php:38
+#, php-format
+msgid "Captcha (%s)"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:40
+msgid "Invalid request - please use the form provided to subscribe"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:41
+msgid "Subscriptions are disabled"
+msgstr ""
+
+#. translators: parses in the opening and closing tags of the logout link
+#: th23-subscribe-pro-lang.php:43
+#, php-format
+msgid "Somebody is already logged in - please %slog out%s and try again"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:45 th23-subscribe-pro-lang.php:48
+#: th23-subscribe-pro-lang.php:58
+msgid "Your subscription"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:46
+msgid "Please confirm, that you are a human"
+msgstr ""
+
+#. translators: %s: title of terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:50
+#, php-format
+msgid "Please accept the %s and agree with processing your data"
+msgstr ""
+
+#. translators: string should start with an empty space, as it will become part of a sentence (see following strings)
+#: th23-subscribe-pro-lang.php:52 th23-subscribe-pro-lang.php:72
+#: th23-subscribe-pro-lang.php:82 th23-subscribe-pro-lang.php:177
+#, php-format
+msgid " within %s day"
+msgid_plural " within %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: th23-subscribe-pro-lang.php:53 th23-subscribe-pro-lang.php:83
+#: th23-subscribe-pro-lang.php:138 th23-subscribe-pro-lang.php:148
+msgid "Thank you"
+msgstr ""
+
+#. translators: %s: validity of link provided, see above translation for " within %s day" / " within %s days"
+#: th23-subscribe-pro-lang.php:55
+#, php-format
+msgid ""
+"We sent you an email - to complete your subscription, please confirm your "
+"email address by clicking the link provided in the mail%s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:56
+msgid "Please enter your email address"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:57
+msgid "Please enter your valid email address"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:60
+msgid ""
+"We are sorry, but we could not complete your subscription due to a server "
+"error. Please try again - if the error persists, contact the administrator "
+"of this site"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:61 th23-subscribe-pro-lang.php:86
+msgid "Already subscribed"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:62
+msgid ""
+"Your email address is already on our list for sending you a notification "
+"upon updates happening"
+msgstr ""
+
+#. translators: mail title to new subscriber - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:64
+#, php-format
+msgid "[%s] Welcome / Your subscription"
+msgstr ""
+
+#. translators: mail body (potentially after salutation), first line to new subscriber - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:66
+#, php-format
+msgid "Welcome to %s and thanks for your interest!"
+msgstr ""
+
+#. translators: mail title to existing user upon new subscription - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:68
+#, php-format
+msgid "[%s] Your subscription"
+msgstr ""
+
+#. translators: mail body (potentially after salutation and welcome message), upon new subscription - followed by subscription confirmation link
+#: th23-subscribe-pro-lang.php:70
+msgid "Just one more step and we will keep you up to date..."
+msgstr ""
+
+#. translators: mail body (potentially after salutation and welcome message, after main confirmation message), upon new subscription - 1: validity of link provided, see above translation for " within %s day" / " within %s days", 2: subscription confirmation link to be parsed in
+#: th23-subscribe-pro-lang.php:74
+#, php-format
+msgid ""
+"Please confirm your interest and email address%1$s by visiting\n"
+"%2$s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:77
+msgid ""
+"We are sorry, but the required mail to confirm your subscription could not "
+"be sent due to a server error. Please contact the administrator of this site"
+msgstr ""
+
+#. translators: %s: validity of link provided, see above translation for " within %s day" / " within %s days"
+#: th23-subscribe-pro-lang.php:85
+#, php-format
+msgid ""
+"We sent you an email - to complete your subscription on answers and further "
+"comments, please confirm your email address by clicking the link provided in "
+"the mail%s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:87
+msgid ""
+"Your email address is already on our list for sending you a notification "
+"upon answers and further comments"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:89
+msgid ""
+"We are sorry, but we could not complete your subscription - please contact "
+"the administrator of this site"
+msgstr ""
+
+#. translators: mail title to visitor upon password reset requested - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:91
+#, php-format
+msgid "[%s] Password reset"
+msgstr ""
+
+#. translators: %s: email address given to trigger the password reset
+#: th23-subscribe-pro-lang.php:93
+#, php-format
+msgid ""
+"Someone has requested a password reset for the account linked to the email "
+"address \"%s\""
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:94
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:95 th23-subscribe-pro-lang.php:104
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:96
+msgid ""
+"We are sorry, but the required mail with the password reset link could not "
+"be sent due to a server error - please contact the administrator of this site"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:97
+msgid ""
+"The e-mail to reset your password could not be sent due to a server error. "
+"Please try again - if the error persists contact the administrator of this "
+"site"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:98
+msgid ""
+"The reset of your password has been initiated successfully - please check "
+"your inbox and follow the link provided"
+msgstr ""
+
+#. translators: mail title to visitor upon registration attempt - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:100
+#, php-format
+msgid "[%s] User registration"
+msgstr ""
+
+#. translators: %s: email address given to continue visitor upgrade
+#: th23-subscribe-pro-lang.php:102
+#, php-format
+msgid "Someone started a user registration linked to the email address \"%s\""
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:103
+msgid "To continue your registration, visit the following address:"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:105
+msgid "Reset the password to join!"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:106
+msgid "<strong>Check your inbox</strong> and follow the confirmation link."
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:107
+msgid ""
+"Your email was already used as a visitor before. You can easily become a "
+"registered member."
+msgstr ""
+
+#. translators: intro of error messages, %s parses in the error message text
+#: th23-subscribe-pro-lang.php:109
+#, php-format
+msgid "<strong>Error</strong>: %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:110
+msgid "Sorry, currently new users are not allowed"
+msgstr ""
+
+#. translators: parses in the opening and closing tags of the logout link
+#: th23-subscribe-pro-lang.php:112
+#, php-format
+msgid ""
+"Somebody is already logged in - please %slog out%s and follow the link again"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:114
+msgid "Invalid request - please use the form provided to join"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:115
+msgid "No valid visitor - please try again or contact an administrator"
+msgstr ""
+
+#. translators: %s: title of terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:119
+#, php-format
+msgid ""
+"Please accept the %s, agree with processing your data and the usage of "
+"cookies"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:120
+msgid "Password can not be empty"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:121
+msgid "Password and confirmation do not match"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:122
+msgid "You are not human? Please solve the captcha"
+msgstr ""
+
+#. translators: mail title to admin about new user pending approval - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:124
+#, php-format
+msgid "[%s] New user registration / Approval required"
+msgstr ""
+
+#. translators: optional part of mail body to admin about new user pending approval (see following string) - 1: registration question, 2: user answer
+#: th23-subscribe-pro-lang.php:126
+#, php-format
+msgid ""
+"Upon the registration question \"%1$s\" the user answered:\n"
+"%2$s"
+msgstr ""
+
+#. translators: mail body to admin about new user pending approval - 1: blog name, 2: user login, 3: user mail, 4: question upon registration and user answer (see previous string), 5: admin user management page link
+#: th23-subscribe-pro-lang.php:129
+#, php-format
+msgid ""
+"A user with the following details upgraded from a being visitor on your site "
+"%1$s and is pending your approval before being able to sign in:\n"
+"\n"
+"Username: %2$s\n"
+"E-mail: %3$s\n"
+"\n"
+"%4$sPlease visit the user management page for your actions:\n"
+"%5$s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:136
+msgid "Mail failure"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:137
+msgid ""
+"Your registration is complete, but requires approval by an administrator. "
+"Unfortunately there was an error sending the notification to the "
+"administrator - please contact the administrator"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:139
+msgid ""
+"Your registration is complete, but requires approval by an administrator - "
+"we will notify you via mail"
+msgstr ""
+
+#. translators: mail title to admin about new user pending approval - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:141
+#, php-format
+msgid "[%s] Welcome"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:142
+#, php-format
+msgid ""
+"Welcome to %1$s and thanks for joining!\n"
+"\n"
+"Your username: %2$s\n"
+"\n"
+"We are looking forward to your comments and feedback..."
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:147
+#, php-format
+msgid "Thank you, %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:149
+msgid "Your registration is complete and you are now logged in"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:150
+msgid ""
+"Confirmation link used could not be validated - please try again or contact "
+"an administrator"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:151
+msgid "Something went wrong - this user is not a visitor"
+msgstr ""
+
+#. translators: star is added as per WP default for indication of a mandatory field
+#: th23-subscribe-pro-lang.php:156 th23-subscribe-pro-lang.php:157
+msgid "Password"
+msgstr ""
+
+#. translators: star is added as per WP default for indication of a mandatory field
+#: th23-subscribe-pro-lang.php:159 th23-subscribe-pro-lang.php:160
+msgid "Confirm password"
+msgstr ""
+
+#. translators: %s: link with/or title to sites terms & conditions, as defined by admin - star is added as per WP default for indication of a mandatory field
+#. translators: %s: link with/or title to sites terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:163 th23-subscribe-pro-lang.php:193
+#, php-format
+msgid "I accept the %s, agree with processing my data and the usage of cookies"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:164
+msgid "Are you human?"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:166
+msgid "Welcome"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:167
+msgid "Please complete the form below to join"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:169 th23-subscribe-pro-lang.php:171
+msgid "Continue reading"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:170
+#, php-format
+msgid "- to read the full article please visit %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:172
+#, php-format
+msgid "- to read the full comment please visit %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:173
+msgid "No further notifications?"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:174
+msgid "Unsubscribe"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:175 th23-subscribe-pro-lang.php:182
+#: th23-subscribe-pro-lang.php:185
+#, php-format
+msgid "by visiting %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:178
+msgid "Confirm subscription"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:179
+#, php-format
+msgid "and your email address by visiting %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:180
+msgid "To continue please"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:181
+msgid "confirm"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:183
+msgid "To complete your registration please"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:184
+msgid "set your password"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:186 th23-subscribe-admin.php:49
+msgid ""
+"Warning: Disabling this option, will delete all existing related "
+"subscriptions irreversably!"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:188
+msgid "Example \"subscribe\":"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:191
+msgid "Example \"upgrade\":"
+msgstr ""
+
+#. translators: %s: link to general options page in admin
+#: th23-subscribe-pro-lang.php:195
+#, php-format
+msgid "Note: For changing title and link shown see %s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:196
+msgid "General Settings"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:197
+msgid ""
+"Important: Acceptance of terms of usage will NOT be requested for visitors "
+"commenting - consider to request this separately!"
+msgstr ""
+
+#. translators: 1: "reCaptcha v2" as name of the service, 2: "Google" as provider name, 3: URL to reCaptcha sign-up
+#: th23-subscribe-pro-lang.php:199
+#, php-format
+msgid ""
+"Important: %1$s is an external service by %2$s which requires <a href=\"%3$s"
+"\">signing up for free keys</a> - usage will embed external scripts and "
+"transfer data to %2$s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:200
+msgid "Public Key"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:201
+msgid "Secret Key"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:202
+msgid ""
+"Number of days, after which visitors, that have not confirmed their "
+"subscription (via the link provided), will be deleted automatically - set to "
+"\"0\" to disable automatic deletion"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:203 th23-subscribe-admin.php:224
+msgid ""
+"Color of \"call to action\" button in notification mails in hex format - "
+"default is dark red \"#820000\", text on it is always white"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:204
+msgid "Legal information"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:206
+msgid "If left empty, &quot;Terms of Usage&quot; will be used"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:207
+msgid "URL"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:208
+msgid "Can be relative URL - if left empty, no link will be added"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:209
+msgid ""
+"Reference a page providing user with legally required information about "
+"terms of usage, impressum and data privacy policy"
+msgstr ""
+
+#. translators: mail title to visitor after being upgrade by an administrator - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:211
+#, php-format
+msgid "[%s] Welcome / Your login and password"
+msgstr ""
+
+#. translators: mail body to visitor after being upgrade by an administrator - 1: blog name, 2: password reset link
+#: th23-subscribe-pro-lang.php:213
+#, php-format
+msgid ""
+"An administrator registered you with your mail address %1$s on %2$s.\n"
+"\n"
+"Your login is %3$s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:216
+msgid "Please set your password visiting the following address:"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:218
+#, php-format
+msgid ""
+"An error occured, while sending the upgrade notification to visitor with ID: "
+"%s"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:219 th23-subscribe-admin.php:683
+#: th23-subscribe-admin.php:715 th23-subscribe-admin.php:1103
+msgid "Done"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:220
+msgid "Selected visitor(s) have been upgraded"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:221 th23-subscribe-admin.php:324
+msgid "Warning"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:222
+msgid ""
+"It is not recommended to edit visitors - changing their role or upgrading "
+"will notify them via mail!"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:223
+msgid "Delete"
+msgstr ""
+
+#: th23-subscribe-pro-lang.php:224
+msgid "Upgrade visitor"
+msgstr ""
+
+#: th23-subscribe-admin.php:51
+#, php-format
+msgid ""
+"This option is only available with the %1$s version of this plugin - %2$s"
+msgstr ""
+
+#: th23-subscribe-admin.php:56
+msgid "Subscriptions"
+msgstr ""
+
+#: th23-subscribe-admin.php:63
+msgid "Allow users to subscribe to new posts being published"
+msgstr ""
+
+#: th23-subscribe-admin.php:73 th23-subscribe-admin.php:102
+msgid "Pre-selection"
+msgstr ""
+
+#: th23-subscribe-admin.php:74 th23-subscribe-admin.php:103
+msgid "Can be changed by user via checkbox"
+msgstr ""
+
+#: th23-subscribe-admin.php:79
+msgid "Pre-select subscription option upon user registration"
+msgstr ""
+
+#: th23-subscribe-admin.php:86
+msgid "Comments"
+msgstr ""
+
+#: th23-subscribe-admin.php:92
+msgid "Allow users to subscribe to responses and further comments"
+msgstr ""
+
+#: th23-subscribe-admin.php:108
+msgid "Pre-select subscription option upon writing a comment"
+msgstr ""
+
+#: th23-subscribe-admin.php:117
+msgid "Visitors"
+msgstr ""
+
+#: th23-subscribe-admin.php:118
+msgid "Visitor subscriptions"
+msgstr ""
+
+#: th23-subscribe-admin.php:124
+msgid ""
+"Allow visitors to subscribe to new posts and comments without being "
+"regsitered"
+msgstr ""
+
+#: th23-subscribe-admin.php:135
+msgid "Terms"
+msgstr ""
+
+#: th23-subscribe-admin.php:141
+msgid ""
+"Visitors are required to accept terms of usage to be able to subscribe to "
+"new posts and to upgrade becoming a registered user"
+msgstr ""
+
+#. translators: parses in "reCaptcha" as name of the service
+#: th23-subscribe-admin.php:152
+#, php-format
+msgid "Enable %s"
+msgstr ""
+
+#. translators: parses in "reCaptcha v2" as name of the service
+#: th23-subscribe-admin.php:159
+#, php-format
+msgid "Use %s to check visitor subscriptions stopping spam and bots"
+msgstr ""
+
+#: th23-subscribe-admin.php:172
+msgid "Delete unconfirmed"
+msgstr ""
+
+#: th23-subscribe-admin.php:185
+msgid ""
+"Time span in seconds after which previous notifications to the same user/ "
+"for the same item will be ignored - set to \"0\" to only send a new "
+"notification after user visited the site"
+msgstr ""
+
+#: th23-subscribe-admin.php:186
+msgid ""
+"Warning: A very short time frame might lead to spamming users with "
+"notifications!"
+msgstr ""
+
+#: th23-subscribe-admin.php:187
+msgid ""
+"Note: For 1 minute enter \"60\", for 1 hour enter \"3600\", for 1 day enter "
+"\"86400\" and for 1 week enter \"604800\"."
+msgstr ""
+
+#: th23-subscribe-admin.php:190
+msgid "Notifications"
+msgstr ""
+
+#: th23-subscribe-admin.php:191
+msgid "Ignore old notifications"
+msgstr ""
+
+#: th23-subscribe-admin.php:199
+msgid "Batch size"
+msgstr ""
+
+#: th23-subscribe-admin.php:200
+msgid ""
+"Maximal number of notifications/ mails to be sent in one batch to avoid "
+"failure due to host restrictions, spam filters, etc. - set to \"0\" to send "
+"all at once"
+msgstr ""
+
+#: th23-subscribe-admin.php:210
+msgid "Batch delay"
+msgstr ""
+
+#: th23-subscribe-admin.php:211
+msgid "Idle time period between sending batches in seconds"
+msgstr ""
+
+#: th23-subscribe-admin.php:223
+msgid "Button color"
+msgstr ""
+
+#: th23-subscribe-admin.php:235
+msgid ""
+"Duration in seconds until overlay messages shown to the user upon subscribe/ "
+"unsubscribe disappears automatically - set to \"0\" for not disappearing "
+"automatically"
+msgstr ""
+
+#: th23-subscribe-admin.php:236
+msgid ""
+"Note: Error messages and overlays requiring user input will never disappear "
+"automatically!"
+msgstr ""
+
+#: th23-subscribe-admin.php:239
+msgid "General"
+msgstr ""
+
+#: th23-subscribe-admin.php:240
+msgid "Overlay message time"
+msgstr ""
+
+#: th23-subscribe-admin.php:251
+msgid "Log"
+msgstr ""
+
+#. translators: adds the logfile name
+#: th23-subscribe-admin.php:253
+#, php-format
+msgid ""
+"The logfile is kept in the plugin folder and named %s - to reset, delete the "
+"file"
+msgstr ""
+
+#: th23-subscribe-admin.php:258
+msgid "Keep a logfile about subscription actions"
+msgstr ""
+
+#: th23-subscribe-admin.php:265
+msgid "Reset cache"
+msgstr ""
+
+#: th23-subscribe-admin.php:270
+msgid ""
+"Delete cached content of entries / comments prepared for sending "
+"notifications - will be recreated automatically, when needed"
+msgstr ""
+
+#. translators: "Professional" as name of the version
+#: th23-subscribe-admin.php:315
+#, php-format
+msgid "Upgrade to %s version"
+msgstr ""
+
+#: th23-subscribe-admin.php:324
+msgid ""
+"Your are running a multisite installation - the plugin is not designed for "
+"this setup and therefore might not work properly"
+msgstr ""
+
+#. translators: 1: "Professional" as name of the version, 2: "...-pro.php" as file name, 3: version number of the PRO file, 4: version number of main file, 5: link to WP update page, 6: link to "th23.net" plugin download page
+#: th23-subscribe-admin.php:329
+#, php-format
+msgid ""
+"The version of the %1$s file (%2$s, version %3$s) does not match with the "
+"overall plugin (version %4$s) - please make sure you update the overall "
+"plugin to the latest version via the <a href=\"%5$s\">automatic update "
+"function</a> and upload the latest version of the %1$s file from %6$s onto "
+"your webserver"
+msgstr ""
+
+#: th23-subscribe-admin.php:523
+msgid "Visitor"
+msgstr ""
+
+#: th23-subscribe-admin.php:600
+msgid "Settings"
+msgstr ""
+
+#. translators: parses in plugin version number (optionally) together with upgrade link
+#: th23-subscribe-admin.php:611 th23-subscribe-admin.php:615
+#: th23-subscribe-admin.php:928 th23-subscribe-admin.php:932
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: th23-subscribe-admin.php:619 th23-subscribe-admin.php:940
+msgid "Support"
+msgstr ""
+
+#: th23-subscribe-admin.php:683
+msgid "Cache cleared"
+msgstr ""
+
+#: th23-subscribe-admin.php:715
+msgid "Settings saved"
+msgstr ""
+
+#: th23-subscribe-admin.php:793
+msgid "+"
+msgstr ""
+
+#: th23-subscribe-admin.php:855
+msgid "-"
+msgstr ""
+
+#: th23-subscribe-admin.php:917 th23-subscribe-admin.php:1113
+msgid "Save Changes"
+msgstr ""
+
+#. translators: parses in plugin author name
+#: th23-subscribe-admin.php:938
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: th23-subscribe-admin.php:943
+msgid "Visit plugin site"
+msgstr ""
+
+#. translators: 1: option name, 2: opening a tag of link to support/ plugin page, 3: closing a tag of link
+#: th23-subscribe-admin.php:1017
+#, php-format
+msgid ""
+"Invalid combination of input field and default value for \"%1$s\" - please "
+"%2$scontact the plugin author%3$s"
+msgstr ""

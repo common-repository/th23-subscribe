@@ -1,0 +1,154 @@
+/* visitor widget and overlay */
+.th23-subscribe-visitor-omsg div,
+.widget_th23_subscribe_widget div {
+  margin-bottom: 0.5em;
+}
+.th23-subscribe-visitor-omsg div.text,
+.widget_th23_subscribe_widget div.text {
+  margin-bottom: 1em;
+}
+
+.th23-subscribe-visitor-form label,
+.th23-subscribe-upgrade-form label {
+  margin-right: 0.5em;
+}
+.th23-subscribe-visitor-form input[type="text"], .th23-subscribe-visitor-form input[type="password"],
+.th23-subscribe-upgrade-form input[type="text"],
+.th23-subscribe-upgrade-form input[type="password"] {
+  width: 100%;
+}
+.th23-subscribe-visitor-form input::-webkit-input-placeholder,
+.th23-subscribe-upgrade-form input::-webkit-input-placeholder {
+  opacity: 0;
+}
+.th23-subscribe-visitor-form input:-ms-input-placeholder,
+.th23-subscribe-upgrade-form input:-ms-input-placeholder {
+  opacity: 0;
+}
+.th23-subscribe-visitor-form input::-ms-input-placeholder,
+.th23-subscribe-upgrade-form input::-ms-input-placeholder {
+  opacity: 0;
+}
+.th23-subscribe-visitor-form input::placeholder,
+.th23-subscribe-upgrade-form input::placeholder {
+  opacity: 0;
+}
+
+/* password - strength, hint and confirmation */
+.th23-subscribe-upgrade-form .pass-error input {
+  background-color: #FFA0A0;
+}
+.th23-subscribe-upgrade-form .pass-bad input {
+  background-color: #FFB78C;
+}
+.th23-subscribe-upgrade-form .pass-good input {
+  background-color: #FFEC8B;
+}
+.th23-subscribe-upgrade-form .pass-strong input {
+  background-color: #C3FF88;
+}
+.th23-subscribe-upgrade-form .th23-subscribe-passstrength, .th23-subscribe-upgrade-form .th23-subscribe-passconfirm {
+  font-style: italic;
+}
+.js .th23-subscribe-upgrade-form .th23-subscribe-passhint, .js .th23-subscribe-upgrade-form .th23-subscribe-pass2 {
+  display: none;
+}
+.js .th23-subscribe-upgrade-form .th23-subscribe-passhint.show, .js .th23-subscribe-upgrade-form .th23-subscribe-pass2.show {
+  display: block;
+}
+
+/* message colors */
+.th23-subscribe-omsg,
+.th23-subscribe-message {
+  border-radius: 3px;
+  border: 1px solid;
+  margin: 0 0 10px;
+  padding: 12px;
+  color: #000000;
+}
+.th23-subscribe-omsg.error,
+.th23-subscribe-message.error {
+  background-color: #FFEBE8;
+  border-color: #CC0000;
+}
+.th23-subscribe-omsg.info,
+.th23-subscribe-message.info {
+  background-color: #FFFFE0;
+  border-color: #E6DB55;
+}
+.th23-subscribe-omsg.success,
+.th23-subscribe-message.success {
+  background-color: #E6FFBF;
+  border-color: #009100;
+}
+
+/* overlay messages */
+.th23-subscribe-omsg {
+  display: none;
+  z-index: 10000;
+  position: fixed;
+  top: 35px;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  width: 500px;
+  max-width: 98%;
+  max-height: calc(100% - 20px);
+  overflow-y: auto;
+  opacity: .92;
+  -webkit-box-shadow: 0 0 15px #222;
+          box-shadow: 0 0 15px #222;
+  border-radius: 5px;
+}
+.th23-subscribe-omsg .title {
+  float: left;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+.th23-subscribe-omsg .close {
+  float: right;
+  cursor: pointer;
+}
+.th23-subscribe-omsg .close:before {
+  content: attr(data-text);
+}
+.th23-subscribe-omsg .message {
+  clear: both;
+  border-top: 1px solid #444444;
+  padding-top: 12px;
+}
+
+/* captcha - explanation link and tooltip */
+.th23-subscribe-tooltip-link {
+  display: inline-block;
+  position: relative;
+  cursor: help;
+  border-bottom: 1px solid #333;
+}
+.th23-subscribe-tooltip-link:hover {
+  color: rgba(51, 51, 51, 0.7);
+  border-bottom: 1px solid transparent;
+}
+
+.th23-subscribe-tooltip-text {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  bottom: 1.5em;
+  right: 50%;
+  margin-right: -160px;
+  /* -half of width below */
+  width: 320px;
+  background-color: rgba(242, 242, 242, 0.96);
+  border: 1px solid #CCCCCC;
+  border-radius: 3px;
+  padding: .5em .8em;
+  color: #000000;
+  text-decoration: none;
+  -webkit-box-shadow: 2px 2px 4px rgba(150, 150, 150, 0.4);
+          box-shadow: 2px 2px 4px rgba(150, 150, 150, 0.4);
+}
+.th23-subscribe-tooltip-link:hover .th23-subscribe-tooltip-text {
+  display: block;
+  text-decoration: none;
+}

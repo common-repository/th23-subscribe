@@ -1,0 +1,1257 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-03-27 15:08+0100\n"
+"PO-Revision-Date: 2020-03-27 15:16+0100\n"
+"Last-Translator: <>\n"
+"Language-Team: German <>\n"
+"Language: ger (B)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: th23-subscribe.php:275 th23-subscribe.php:290 th23-subscribe.php:330
+#: th23-subscribe.php:346 th23-subscribe-pro-lang.php:44
+#: th23-subscribe-pro-lang.php:59 th23-subscribe-pro-lang.php:76
+#: th23-subscribe-pro-lang.php:88
+msgid "Subscription failed"
+msgstr "Anmeldung fehlgeschlagen"
+
+#: th23-subscribe.php:276
+msgid ""
+"Subscribe link used could not be validated - please try again, login to "
+"subscribe manually or contact an administrator"
+msgstr ""
+"Link zur Anmeldung ist ungültig - bitte versuche es erneut, logge Dich ein "
+"und melde Dich nochmal an oder kontaktiere einen Administrator"
+
+#: th23-subscribe.php:291
+msgid ""
+"Subscribe link used does not match currently logged in user - please log out "
+"and click the link again"
+msgstr ""
+"Link zur Anmeldung passt nicht zum aktuell angemeldeten Benutzer - bitte "
+"logge den Benutzer aus und klicke den Link erneut"
+
+#: th23-subscribe.php:331
+msgid "Global subscription is not available"
+msgstr "Globale Benachrichtigungen nicht verfügbar"
+
+#: th23-subscribe.php:340
+msgid ""
+"Thanks for your subscription, you will receive notifications upon new posts "
+"via mail"
+msgstr ""
+"Vielen Dank für Deine Anmeldung, Du erhälst in Zukunft bei neuen Beiträgen "
+"eine Benachrichtigung via E-Mail"
+
+#: th23-subscribe.php:347
+msgid "Subscription to replies and further comments is not available"
+msgstr "Benachrichtigungen für Antworten und weitere Kommentare nicht verfügbar"
+
+#: th23-subscribe.php:359
+#, php-format
+msgid ""
+"Thanks for your subscription to the post \"%s\", you will receive "
+"notifications upon new comments via mail"
+msgstr ""
+"Vielen Dank für Deine Anmeldung zu dem Beitrag \"%s\", Du erhälst in Zukunft "
+"bei neuen Kommentaren eine Benachrichtigung via E-Mail"
+
+#: th23-subscribe.php:383
+msgid "Subscription successful"
+msgstr "Anmeldung erfolgreich"
+
+#: th23-subscribe.php:414 th23-subscribe.php:429
+msgid "Unsubscribe failed"
+msgstr "Abmeldung fehlgeschlagen"
+
+#: th23-subscribe.php:415
+msgid ""
+"Unsubscribe link used could not be validated - please try again, login to "
+"unsubscribe manually or contact an administrator"
+msgstr ""
+"Link zur Abmeldung ist ungültig - bitte versuche es erneut, logge Dich ein "
+"und verwalte Deine Abonnements manuell oder kontaktiere einen Administrator"
+
+#: th23-subscribe.php:430
+msgid ""
+"Unsubscribe link used does not match currently logged in user - please log "
+"out and click the link again"
+msgstr ""
+"Link zur Abmeldung passt nicht zum aktuell angemeldeten Benutzer - bitte "
+"logge den Benutzer aus und klicke den Link erneut"
+
+#: th23-subscribe.php:466
+msgid "You will not receive any further notifications upon new posts via mail"
+msgstr "Du erhälst in Zukunft keine Benachrichtigungen bei neuen Beiträgen via E-Mail"
+
+#: th23-subscribe.php:473
+#, php-format
+msgid ""
+"You unsubscribed from the post \"%s\" and will not receive further "
+"notifications upon new comments"
+msgstr ""
+"Du hast Dich von Benachrichtigunen zu dem Beitrag \"%s\" abgemeldet und "
+"erhälst in Zukunft bei neuen Kommentaren keine Benachrichtigungen mehr"
+
+#: th23-subscribe.php:498
+msgid "Subscription cancelled"
+msgstr "Abmeldung erfolgreich"
+
+#: th23-subscribe.php:593
+msgid "I would like to be notified upon new posts via mail"
+msgstr "Ich möchte bei neuen Beiträgen eine Benachrichtigung via E-Mail erhalten"
+
+#: th23-subscribe.php:624 th23-subscribe-pro-lang.php:80
+msgid "Notify me upon responses and further comments"
+msgstr "Benachrichtige mich bei Antworten und neuen Kommentaren"
+
+#: th23-subscribe.php:646
+msgid "Manage subscriptions"
+msgstr "Abonnements verwalten"
+
+#: th23-subscribe.php:667
+msgid "Modify your subscriptions below."
+msgstr "Ändere hier Deine Auswahl zu Benachrichtigungen."
+
+#: th23-subscribe.php:672 th23-subscribe-pro-lang.php:165
+msgid "Save"
+msgstr "Speichern"
+
+#: th23-subscribe.php:673
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: th23-subscribe.php:679 th23-subscribe-pro-lang.php:113
+#: th23-subscribe-pro-lang.php:116 th23-subscribe-pro-lang.php:152
+#: th23-subscribe-pro-lang.php:168 th23-subscribe-pro-lang.php:217
+#: th23-subscribe-admin.php:330 th23-subscribe-admin.php:1015
+#: th23-subscribe-admin.php:1106
+msgid "Error"
+msgstr "Fehler"
+
+#: th23-subscribe.php:679
+msgid "You are not allowed to edit your subscriptions"
+msgstr "Du hast keine Berechtigung Deine Abonnements zu ändern"
+
+#: th23-subscribe.php:702
+msgid "Action cancelled, no changes have been saved"
+msgstr "Aktion abgebrochen, es wurden keine Änderungen gespeichert"
+
+#: th23-subscribe.php:716
+msgid ""
+"Invalid request - please use the form below to manage your subscriptions"
+msgstr ""
+"Ungültige Anfrage - bitte benutze das unten angezeigte Formular um Deine "
+"Abonnements zu ändern"
+
+#: th23-subscribe.php:727 th23-subscribe-admin.php:1088
+msgid "Your Subscriptions"
+msgstr "Deine Abonnements"
+
+#: th23-subscribe.php:733 th23-subscribe.php:1239
+#: th23-subscribe-pro-lang.php:78
+msgid "Updates"
+msgstr "Neuigkeiten"
+
+#: th23-subscribe.php:737 th23-subscribe.php:1240
+#: th23-subscribe-pro-lang.php:79
+msgid "Get notifications for new posts via mail"
+msgstr "Erhalte Benachrichtigungen über neue Beiträge via E-Mail"
+
+#: th23-subscribe.php:741 th23-subscribe-admin.php:57
+msgid "Posts"
+msgstr "Beiträge"
+
+#: th23-subscribe.php:745
+msgid ""
+"Unselect posts you want to receive no further notifications upon replies and "
+"additional comments"
+msgstr ""
+"Wähle Beiträge ab zu denen Du keine weiteren Benachrichtigungen bei "
+"Antworten oder neuen Kommentaren erhalten möchtest"
+
+#: th23-subscribe.php:754
+msgid ""
+"You are currently not subscribed to any posts - to subscribe to a post write "
+"a comment and select the subscription option"
+msgstr ""
+"Du bist aktuell für keine Benachrichtigungen bei Kommentaren angemeldet - um "
+"Dich anzumelden schreibe einen Kommentar zu einem Beitrag und wähle dort die "
+"entsprechende Option aus"
+
+#: th23-subscribe.php:796
+msgid "Changes to your subscriptions have been saved successfully"
+msgstr "Änderungen zu Deinen Abonnements wurden erfolgreich gespeichert"
+
+#: th23-subscribe.php:796
+msgid "An error occured - please check your subscriptions and try again"
+msgstr "Ein Fehler ist aufgetreten - bitte überprüfe Deine Abonnements und versuche es erneut"
+
+#: th23-subscribe.php:886
+msgid "This is a password protected post - please continue to read it."
+msgstr "Dies ist ein passwortgeschützter Beitrag - bitte fahre fort um diesen zu lesen."
+
+#: th23-subscribe.php:991
+#, php-format
+msgid "[%1$s] Your post: %2$s"
+msgstr "[%1$s] Dein Beitrag: %2$s"
+
+#: th23-subscribe.php:992
+msgid ""
+"Your post has been published and subscribed users (like you) are now being "
+"notified about it:"
+msgstr ""
+"Dein Beitrag wurde veröffentlicht und Nutzer mit Abonnements (wie Du) werden "
+"nun darüber benachrichtigt:"
+
+#: th23-subscribe.php:996
+#, php-format
+msgid "[%1$s] New post: %2$s"
+msgstr "[%1$s] Neuer Beitrag: %2$s"
+
+#: th23-subscribe.php:997
+#, php-format
+msgid "A new post has been published on %s:"
+msgstr "Ein neuer Beitrag wurde auf %s veröffentlicht:"
+
+#: th23-subscribe.php:1008
+#, php-format
+msgid "Continue reading - to read the full article please visit %s"
+msgstr "Weiterlesen - um den ganzen Beitrag zu lesen besuche bitte %s"
+
+#: th23-subscribe.php:1012 th23-subscribe.php:1057
+#, php-format
+msgid "No further notifications? To unsubscribe please click %s"
+msgstr "Keine weiteren Benachrichtigungen? Zum Abbestellen klicke bitte %s"
+
+#: th23-subscribe.php:1035
+#, php-format
+msgid "[%1$s] Your comment on \"%2$s\""
+msgstr "[%1$s] Dein Kommentar zu \"%2$s\""
+
+#: th23-subscribe.php:1036
+#, php-format
+msgid ""
+"Your comment on \"%s\" has been published and subscribed users (like you) "
+"are now being notified about it. You wrote:"
+msgstr ""
+"Dein Kommentar zu \"%s\" wurde veröffentlicht und Nutzer mit Abonnements ("
+"wie Du) werden nun darüber benachrichtigt. Du schreibst:"
+
+#: th23-subscribe.php:1039
+#, php-format
+msgid "[%1$s] New comment on \"%2$s\""
+msgstr "[%1$s] Neuer Kommentar zu \"%2$s\""
+
+#: th23-subscribe.php:1040
+#, php-format
+msgid "A new comment on \"%s\" which you are subscribed to has been published:"
+msgstr "Ein neuer Kommentar zu dem von Dir abonnierten Beitrag \"%s\" wurde veröffentlicht:"
+
+#: th23-subscribe.php:1053
+#, php-format
+msgid "Continue reading - to read the full comment please visit %s"
+msgstr "Weiterlesen - um den ganzen Kommentar zu lesen besuche bitte %s"
+
+#: th23-subscribe.php:1179
+msgid "Displays option to subscribe to udpates"
+msgstr "Anmeldung für Benachrichtigungen bei Neuigkeiten"
+
+#: th23-subscribe.php:1205 th23-subscribe-pro-lang.php:39
+msgid "Subscribe"
+msgstr "Anmelden"
+
+#: th23-subscribe.php:1213
+#, php-format
+msgid "Please %sregister%s to subscribe for updates"
+msgstr "Bitte %sregistriere%s Dich um Benachrichtigungen zu erhalten"
+
+#: th23-subscribe.php:1244 th23-subscribe-pro-lang.php:205
+msgid "Title"
+msgstr "Titel"
+
+#: th23-subscribe.php:1247
+msgid "Description"
+msgstr "Beschreibung"
+
+#: th23-subscribe-pro-lang.php:20
+msgid "Login not allowed."
+msgstr "Anmeldung nicht erlaubt."
+
+#.   translators: mail body, salutation in first line of mails to users - chosen user name to be parsed in
+#: th23-subscribe-pro-lang.php:22
+#, php-format
+msgid "Hi %s,"
+msgstr "Hallo %s,"
+
+#.   translators: star is added as per WP default for indication of a mandatory field
+#: th23-subscribe-pro-lang.php:24 th23-subscribe-pro-lang.php:25
+msgid "Email"
+msgstr "E-Mail"
+
+#: th23-subscribe-pro-lang.php:26 th23-subscribe-pro-lang.php:27
+#: th23-subscribe-pro-lang.php:153 th23-subscribe-pro-lang.php:154
+msgid "Name"
+msgstr "Name"
+
+#: th23-subscribe-pro-lang.php:28 th23-subscribe-pro-lang.php:47
+#: th23-subscribe-pro-lang.php:117 th23-subscribe-pro-lang.php:161
+#: th23-subscribe-pro-lang.php:187
+msgid "Terms of Usage"
+msgstr "Nutzungsbedingungen"
+
+#.   translators: %s: link with/or title to sites terms & conditions, as defined by admin - star is added as per WP default for indication of a mandatory field
+#.   translators: %s: link with/or title to sites terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:30 th23-subscribe-pro-lang.php:190
+#, php-format
+msgid "I accept the %s and agree with processing my data"
+msgstr "Ich akzeptiere %s und stimme der Verarbeitung meiner Daten zu"
+
+#: th23-subscribe-pro-lang.php:31 th23-subscribe-pro-lang.php:35
+msgid "What?"
+msgstr "Was?"
+
+#: th23-subscribe-pro-lang.php:32
+msgid "A captcha is a test to distinguish humans from computers."
+msgstr "Ein Captcha ist ein Test zur Unterscheidung zwischen Mensch und Computer."
+
+#: th23-subscribe-pro-lang.php:33 th23-subscribe-pro-lang.php:36
+msgid "Why?"
+msgstr "Warum?"
+
+#: th23-subscribe-pro-lang.php:34
+msgid ""
+"Internet today fights a lot of spam and this test helps to keep this website "
+"clean."
+msgstr ""
+"Im Internet gibt es heute jede Menge Spam und dieser Test hilft, diese "
+"Webseite davon frei zu halten."
+
+#.   translators: parses in "What? Why?" question into brackets and asociated tooltip, see strings before
+#: th23-subscribe-pro-lang.php:38
+#, php-format
+msgid "Captcha (%s)"
+msgstr "Captcha (%s)"
+
+#: th23-subscribe-pro-lang.php:40
+msgid "Invalid request - please use the form provided to subscribe"
+msgstr "Ungültige Anfrage - bitte benutze das angezeigte Formular um Dich anzumelden"
+
+#: th23-subscribe-pro-lang.php:41
+msgid "Subscriptions are disabled"
+msgstr "Anmeldungen sind nicht erlaubt"
+
+#.   translators: parses in the opening and closing tags of the logout link
+#: th23-subscribe-pro-lang.php:43
+#, php-format
+msgid "Somebody is already logged in - please %slog out%s and try again"
+msgstr "Jemand ist bereits eingeloggt - bitte %slogge ihn aus%s und versuche es erneut"
+
+#: th23-subscribe-pro-lang.php:45 th23-subscribe-pro-lang.php:48
+#: th23-subscribe-pro-lang.php:58
+msgid "Your subscription"
+msgstr "Deine Anmeldung"
+
+#: th23-subscribe-pro-lang.php:46
+msgid "Please confirm, that you are a human"
+msgstr "Bitte bestätige, dass Du ein Mensch bist"
+
+#.   translators: %s: title of terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:50
+#, php-format
+msgid "Please accept the %s and agree with processing your data"
+msgstr "Bitte akzeptiere %s und stimme der Verarbeitung Deiner Daten zu"
+
+#.   translators: string should start with an empty space, as it will become part of a sentence (see following strings)
+#: th23-subscribe-pro-lang.php:52 th23-subscribe-pro-lang.php:72
+#: th23-subscribe-pro-lang.php:82 th23-subscribe-pro-lang.php:177
+#, php-format
+msgid " within %s day"
+msgid_plural " within %s days"
+msgstr[0] " innerhalb von %s Tag"
+msgstr[1] " innerhalb von %s Tagen"
+
+#: th23-subscribe-pro-lang.php:53 th23-subscribe-pro-lang.php:83
+#: th23-subscribe-pro-lang.php:138 th23-subscribe-pro-lang.php:148
+msgid "Thank you"
+msgstr "Vielen Dank"
+
+#.   translators: %s: validity of link provided, see above translation for " within %s day" / " within %s days"
+#: th23-subscribe-pro-lang.php:55
+#, php-format
+msgid ""
+"We sent you an email - to complete your subscription, please confirm your "
+"email address by clicking the link provided in the mail%s"
+msgstr ""
+"Wir haben Dir eine E-Mail geschickt - bitte folge dem Link in dieser E-Mail%"
+"s, um Deine Adresse zu bestätigen und die Anmeldung abzuschließen"
+
+#: th23-subscribe-pro-lang.php:56
+msgid "Please enter your email address"
+msgstr "Bitte gib Deine E-Mail Adresse an"
+
+#: th23-subscribe-pro-lang.php:57
+msgid "Please enter your valid email address"
+msgstr "Bitte gib Deine gültige E-Mail Adresse an"
+
+#: th23-subscribe-pro-lang.php:60
+msgid ""
+"We are sorry, but we could not complete your subscription due to a server "
+"error. Please try again - if the error persists, contact the administrator "
+"of this site"
+msgstr ""
+"Entschuldigung, aufgrund eines Fehlers konnte Deine Anmeldung nicht "
+"abgeschlossen werden. Bitte versuche es erneut - sollte der Fehler weiterhin "
+"auftreten, kontaktiere einen Administrator"
+
+#: th23-subscribe-pro-lang.php:61 th23-subscribe-pro-lang.php:86
+msgid "Already subscribed"
+msgstr "Bereits angemeldet"
+
+#: th23-subscribe-pro-lang.php:62
+msgid ""
+"Your email address is already on our list for sending you a notification "
+"upon updates happening"
+msgstr ""
+"Deine E-Mail Adresse ist bereits auf unserer Liste um Dich bei Neuigkeiten "
+"zu benachrichtigen"
+
+#.   translators: mail title to new subscriber - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:64
+#, php-format
+msgid "[%s] Welcome / Your subscription"
+msgstr "[%s] Willkommen / Deine Anmeldung"
+
+#.   translators: mail body (potentially after salutation), first line to new subscriber - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:66
+#, php-format
+msgid "Welcome to %s and thanks for your interest!"
+msgstr "Willkommen bei %s und vielen Dank für Dein Interesse!"
+
+#.   translators: mail title to existing user upon new subscription - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:68
+#, php-format
+msgid "[%s] Your subscription"
+msgstr "[%s] Deine Anmeldung"
+
+#.   translators: mail body (potentially after salutation and welcome message), upon new subscription - followed by subscription confirmation link
+#: th23-subscribe-pro-lang.php:70
+msgid "Just one more step and we will keep you up to date..."
+msgstr "Nur noch ein weiterer Schritt und wir halten Dich auf dem Laufenden..."
+
+#.   translators: mail body (potentially after salutation and welcome message, after main confirmation message), upon new subscription - 1: validity of link provided, see above translation for " within %s day" / " within %s days", 2: subscription confirmation link to be parsed in
+#: th23-subscribe-pro-lang.php:74
+#, php-format
+msgid ""
+"Please confirm your interest and email address%1$s by visiting\n"
+"%2$s"
+msgstr ""
+"Bitte bestätige Dein Interesse und Deine E-Mail Adresse%1$s über folgenden "
+"Link\n"
+"%2$s"
+
+#: th23-subscribe-pro-lang.php:77
+msgid ""
+"We are sorry, but the required mail to confirm your subscription could not "
+"be sent due to a server error. Please contact the administrator of this site"
+msgstr ""
+"Entschuldigung, aufgrund eines Fehlers konnte die nötige Bestätigung Deiner "
+"Anmeldung nicht verschickt werden. Bitte kontaktiere einen Administrator"
+
+#.   translators: %s: validity of link provided, see above translation for " within %s day" / " within %s days"
+#: th23-subscribe-pro-lang.php:85
+#, php-format
+msgid ""
+"We sent you an email - to complete your subscription on answers and further "
+"comments, please confirm your email address by clicking the link provided in "
+"the mail%s"
+msgstr ""
+"Wir haben Dir eine E-Mail geschickt - bitte folge dem Link in dieser E-Mail%"
+"s, um Deine Adresse zu bestätigen und die Anmeldung abzuschließen"
+
+#: th23-subscribe-pro-lang.php:87
+msgid ""
+"Your email address is already on our list for sending you a notification "
+"upon answers and further comments"
+msgstr ""
+"Deine E-Mail Adresse ist bereits auf unserer Liste um Dich bei Antworten und "
+"neuen Kommentaren zu benachrichtigen"
+
+#: th23-subscribe-pro-lang.php:89
+msgid ""
+"We are sorry, but we could not complete your subscription - please contact "
+"the administrator of this site"
+msgstr ""
+"Entschuldigung, aufgrund eines Fehlers konnte Deine Anmeldung nicht "
+"abgeschlossen werden - bitte kontaktiere einen Administrator"
+
+#.   translators: mail title to visitor upon password reset requested - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:91
+#, php-format
+msgid "[%s] Password reset"
+msgstr "[%s] Passwort zurücksetzen"
+
+#.   translators: %s: email address given to trigger the password reset
+#: th23-subscribe-pro-lang.php:93
+#, php-format
+msgid ""
+"Someone has requested a password reset for the account linked to the email "
+"address \"%s\""
+msgstr ""
+"Jemand hat das Zurücksetzen des Passworts für das Benutzerkonto zu der E-"
+"Mail Adresse \"%s\" beantragt"
+
+#: th23-subscribe-pro-lang.php:94
+msgid "To reset your password, visit the following address:"
+msgstr "Zum Zurücksetzen des Passworts, folge bitte diesem Link:"
+
+#: th23-subscribe-pro-lang.php:95 th23-subscribe-pro-lang.php:104
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Sollte dies ein Fehler gewesen sein, ignoriere diese E-Mail einfach und es wird nichts geschehen."
+
+#: th23-subscribe-pro-lang.php:96
+msgid ""
+"We are sorry, but the required mail with the password reset link could not "
+"be sent due to a server error - please contact the administrator of this site"
+msgstr ""
+"Entschuldigung, aufgrund eines Fehlers konnte der Link zum Zurücksetzen des "
+"Passworts nicht verschickt werden - bitte kontaktiere einen Administrator"
+
+#: th23-subscribe-pro-lang.php:97
+msgid ""
+"The e-mail to reset your password could not be sent due to a server error. "
+"Please try again - if the error persists contact the administrator of this "
+"site"
+msgstr ""
+"Aufgrund eines Fehlers konnte der Link zum Zurücksetzen des Passworts nicht "
+"verschickt werden. Bitte versuche es erneut - sollte der Fehler weiterhin "
+"bestehen, kontaktiere bitte einen Administrator"
+
+#: th23-subscribe-pro-lang.php:98
+msgid ""
+"The reset of your password has been initiated successfully - please check "
+"your inbox and follow the link provided"
+msgstr ""
+"Das Zurücksetzen Deines Passwort wurde erfolgreich veranlasst - bitte "
+"überprüfe Deine E-Mails und folge dem dort enthaltenen Link"
+
+#.   translators: mail title to visitor upon registration attempt - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:100
+#, php-format
+msgid "[%s] User registration"
+msgstr "[%s] Registrierung"
+
+#.   translators: %s: email address given to continue visitor upgrade
+#: th23-subscribe-pro-lang.php:102
+#, php-format
+msgid "Someone started a user registration linked to the email address \"%s\""
+msgstr "Jemand hat eine Registrierung begonnen und die E-Mail Adresse \"%s\" angegeben"
+
+#: th23-subscribe-pro-lang.php:103
+msgid "To continue your registration, visit the following address:"
+msgstr "Um Deine Registrierung fortzusetzen, folge bitte diesem Link:"
+
+#: th23-subscribe-pro-lang.php:105
+msgid "Reset the password to join!"
+msgstr "Setze Dein Passwort zurück um Dich zu registrieren!"
+
+#: th23-subscribe-pro-lang.php:106
+msgid "<strong>Check your inbox</strong> and follow the confirmation link."
+msgstr "<strong>Überprüfe Deine E-Mails</strong> und folge dem dort enthaltenen Link."
+
+#: th23-subscribe-pro-lang.php:107
+msgid ""
+"Your email was already used as a visitor before. You can easily become a "
+"registered member."
+msgstr ""
+"Deine E-Mail Adresse wurde bereits als Besucher genutzt. Du kannst Dich "
+"einfach registrieren."
+
+#.   translators: intro of error messages, %s parses in the error message text
+#: th23-subscribe-pro-lang.php:109
+#, php-format
+msgid "<strong>Error</strong>: %s"
+msgstr "<strong>Fehler</strong>: %s"
+
+#: th23-subscribe-pro-lang.php:110
+msgid "Sorry, currently new users are not allowed"
+msgstr "Entschuldigung, aktuell ist keine neue Regsitrierung erlaubt"
+
+#.   translators: parses in the opening and closing tags of the logout link
+#: th23-subscribe-pro-lang.php:112
+#, php-format
+msgid ""
+"Somebody is already logged in - please %slog out%s and follow the link again"
+msgstr ""
+"Jemand ist bereits eingeloggt - bitte %slogge ihn aus%s und folge dem Link "
+"erneut"
+
+#: th23-subscribe-pro-lang.php:114
+msgid "Invalid request - please use the form provided to join"
+msgstr "Ungültige Anfrage - bitte benutze das angezeigte Formular um Dich zu registrieren"
+
+#: th23-subscribe-pro-lang.php:115
+msgid "No valid visitor - please try again or contact an administrator"
+msgstr "Kein gültiger Besucher - bitte versuche es erneut oder kontaktiere einen Administrator"
+
+#.   translators: %s: title of terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:119
+#, php-format
+msgid ""
+"Please accept the %s, agree with processing your data and the usage of "
+"cookies"
+msgstr ""
+"Bitte akzeptiere %s, stimme der Verarbeitung Deiner Daten und dem Einsatz "
+"von Cookies zu"
+
+#: th23-subscribe-pro-lang.php:120
+msgid "Password can not be empty"
+msgstr "Passwort muss angegeben werden"
+
+#: th23-subscribe-pro-lang.php:121
+msgid "Password and confirmation do not match"
+msgstr "Passwort und Bestätigung stimmen nicht überein"
+
+#: th23-subscribe-pro-lang.php:122
+msgid "You are not human? Please solve the captcha"
+msgstr "Du bist nicht menschlich? Bitte löse die gezeigte Aufgabe"
+
+#.   translators: mail title to admin about new user pending approval - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:124
+#, php-format
+msgid "[%s] New user registration / Approval required"
+msgstr "[%s] Neue Registrierung / Freigabe erforderlich"
+
+#.   translators: optional part of mail body to admin about new user pending approval (see following string) - 1: registration question, 2: user answer
+#: th23-subscribe-pro-lang.php:126
+#, php-format
+msgid ""
+"Upon the registration question \"%1$s\" the user answered:\n"
+"%2$s"
+msgstr ""
+"Auf die Frage \"%1$s\" bei der Registrierung hat der Nutzer folgendes "
+"geantwortet:\n"
+"%2$s"
+
+#.   translators: mail body to admin about new user pending approval - 1: blog name, 2: user login, 3: user mail, 4: question upon registration and user answer (see previous string), 5: admin user management page link
+#: th23-subscribe-pro-lang.php:129
+#, php-format
+msgid ""
+"A user with the following details upgraded from a being visitor on your site "
+"%1$s and is pending your approval before being able to sign in:\n"
+"\n"
+"Username: %2$s\n"
+"E-mail: %3$s\n"
+"\n"
+"%4$sPlease visit the user management page for your actions:\n"
+"%5$s"
+msgstr ""
+"Ein Nutzer mit den folgenden Details hat sich auf Deiner Seite %1$s "
+"registriert und wartet auf Deine Bestätigung, bevor er sich anmelden kann:\n"
+"\n"
+"Benutzername: %2$s\n"
+"E-Mail Adresse: %3$s\n"
+"\n"
+"%4$sBitte rufe die Benutzerverwaltung für weitere Aktionen auf:\n"
+"%5$s"
+
+#: th23-subscribe-pro-lang.php:136
+msgid "Mail failure"
+msgstr "Fehler beim E-Mail Versand"
+
+#: th23-subscribe-pro-lang.php:137
+msgid ""
+"Your registration is complete, but requires approval by an administrator. "
+"Unfortunately there was an error sending the notification to the "
+"administrator - please contact the administrator"
+msgstr ""
+"Deine Registrierung ist abgeschlossen, muss aber noch durch einen "
+"Administrator freigegeben werden. Leider ist es beim Versand der "
+"Benachrichtigung zu einem Fehler gekommen - bitte kontaktiere einen "
+"Administrator"
+
+#: th23-subscribe-pro-lang.php:139
+msgid ""
+"Your registration is complete, but requires approval by an administrator - "
+"we will notify you via mail"
+msgstr ""
+"Deine Registrierung ist abgeschlossen, muss aber noch durch einen "
+"Administrator freigegeben werden - wir benachrichtigen Dich via E-Mail"
+
+#.   translators: mail title to admin about new user pending approval - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:141
+#, php-format
+msgid "[%s] Welcome"
+msgstr "[%s] Willkommen"
+
+#: th23-subscribe-pro-lang.php:142
+#, php-format
+msgid ""
+"Welcome to %1$s and thanks for joining!\n"
+"\n"
+"Your username: %2$s\n"
+"\n"
+"We are looking forward to your comments and feedback..."
+msgstr ""
+"Willkommen bei %1$s und vielen Dank für Deine Registrierung!\n"
+"\n"
+"Dein Benutzername: %2$s\n"
+"\n"
+"Wir freuen uns auf Deine Kommentare und Feedback..."
+
+#: th23-subscribe-pro-lang.php:147
+#, php-format
+msgid "Thank you, %s"
+msgstr "Vielen Dank, %s"
+
+#: th23-subscribe-pro-lang.php:149
+msgid "Your registration is complete and you are now logged in"
+msgstr "Deine Registrierung ist abgeschlossen und Du bist jetzt eingeloggt"
+
+#: th23-subscribe-pro-lang.php:150
+msgid ""
+"Confirmation link used could not be validated - please try again or contact "
+"an administrator"
+msgstr ""
+"Die Bestätigung konnte nicht validiert werden - bitte versuche es erneut "
+"oder kontaktiere einen Administrator"
+
+#: th23-subscribe-pro-lang.php:151
+msgid "Something went wrong - this user is not a visitor"
+msgstr "Ein Fehler ist aufgetreten - dieser Nutzer ist kein Besucher"
+
+#.   translators: star is added as per WP default for indication of a mandatory field
+#: th23-subscribe-pro-lang.php:156 th23-subscribe-pro-lang.php:157
+msgid "Password"
+msgstr "Passwort"
+
+#.   translators: star is added as per WP default for indication of a mandatory field
+#: th23-subscribe-pro-lang.php:159 th23-subscribe-pro-lang.php:160
+msgid "Confirm password"
+msgstr "Bestätigung Passwort"
+
+#.   translators: %s: link with/or title to sites terms & conditions, as defined by admin - star is added as per WP default for indication of a mandatory field
+#.   translators: %s: link with/or title to sites terms & conditions, as defined by admin
+#: th23-subscribe-pro-lang.php:163 th23-subscribe-pro-lang.php:193
+#, php-format
+msgid "I accept the %s, agree with processing my data and the usage of cookies"
+msgstr "Ich akzeptiere %s, stimme der Verarbeitung meiner Daten und dem Einsatz von Cookies zu"
+
+#: th23-subscribe-pro-lang.php:164
+msgid "Are you human?"
+msgstr "Bist Du ein Mensch?"
+
+#: th23-subscribe-pro-lang.php:166
+msgid "Welcome"
+msgstr "Willkommen"
+
+#: th23-subscribe-pro-lang.php:167
+msgid "Please complete the form below to join"
+msgstr "Bitte fülle das Formular aus um Dich zu registrieren"
+
+#: th23-subscribe-pro-lang.php:169 th23-subscribe-pro-lang.php:171
+msgid "Continue reading"
+msgstr "Weiterlesen"
+
+#: th23-subscribe-pro-lang.php:170
+#, php-format
+msgid "- to read the full article please visit %s"
+msgstr "- um den ganzen Beitrag zu lesen besuche bitte %s"
+
+#: th23-subscribe-pro-lang.php:172
+#, php-format
+msgid "- to read the full comment please visit %s"
+msgstr "- um den ganzen Kommentar zu lesen besuche bitte %s"
+
+#: th23-subscribe-pro-lang.php:173
+msgid "No further notifications?"
+msgstr "Keine weiteren Benachrichtigungen?"
+
+#: th23-subscribe-pro-lang.php:174
+msgid "Unsubscribe"
+msgstr "Abbestellen"
+
+#: th23-subscribe-pro-lang.php:175 th23-subscribe-pro-lang.php:182
+#: th23-subscribe-pro-lang.php:185
+#, php-format
+msgid "by visiting %s"
+msgstr "über %s"
+
+#: th23-subscribe-pro-lang.php:178
+msgid "Confirm subscription"
+msgstr "Anmeldung bestätigen"
+
+#: th23-subscribe-pro-lang.php:179
+#, php-format
+msgid "and your email address by visiting %s"
+msgstr "und E-Mail Adresse verifizieren auf %s"
+
+#: th23-subscribe-pro-lang.php:180
+msgid "To continue please"
+msgstr "Zum Fortfahren bitte"
+
+#: th23-subscribe-pro-lang.php:181
+msgid "confirm"
+msgstr "bestätigen"
+
+#: th23-subscribe-pro-lang.php:183
+msgid "To complete your registration please"
+msgstr "Zum Abschluss der Registrierung bitte"
+
+#: th23-subscribe-pro-lang.php:184
+msgid "set your password"
+msgstr "Passwort vergeben"
+
+#: th23-subscribe-pro-lang.php:186 th23-subscribe-admin.php:49
+msgid ""
+"Warning: Disabling this option, will delete all existing related "
+"subscriptions irreversably!"
+msgstr ""
+"Warnung: Deaktivierung dieser Option löscht alle bestehenden Abonnements "
+"unwiederbringlich!"
+
+#: th23-subscribe-pro-lang.php:188
+msgid "Example \"subscribe\":"
+msgstr "Beispiel \"Anmeldung\":"
+
+#: th23-subscribe-pro-lang.php:191
+msgid "Example \"upgrade\":"
+msgstr "Beispiel \"Upgrade\":"
+
+#.   translators: %s: link to general options page in admin
+#: th23-subscribe-pro-lang.php:195
+#, php-format
+msgid "Note: For changing title and link shown see %s"
+msgstr "Hinweis: Zum Ändern des Titels oder der URL siehe %s"
+
+#: th23-subscribe-pro-lang.php:196
+msgid "General Settings"
+msgstr "Allgemeine Einstellungen"
+
+#: th23-subscribe-pro-lang.php:197
+msgid ""
+"Important: Acceptance of terms of usage will NOT be requested for visitors "
+"commenting - consider to request this separately!"
+msgstr ""
+"Wichtig: Zustimmung zu den Nutzungsbedingungen ist bei Kommentaren NICHT "
+"standardmäßig erforderlich - überlege diese separat einzuholen!"
+
+#.   translators: 1: "reCaptcha v2" as name of the service, 2: "Google" as provider name, 3: URL to reCaptcha sign-up
+#: th23-subscribe-pro-lang.php:199
+#, php-format
+msgid ""
+"Important: %1$s is an external service by %2$s which requires <a href=\"%3$s"
+"\">signing up for free keys</a> - usage will embed external scripts and "
+"transfer data to %2$s"
+msgstr ""
+"Hinweis: %1$s ist ein externer Service von %2$s, welcher eine <a href=\"%3$"
+"s\">kostenlose Anmeldung</a> erfordert - die Nutzung lädt externe Skripte "
+"und überträgt Daten an %2$s"
+
+#: th23-subscribe-pro-lang.php:200
+msgid "Public Key"
+msgstr "Öffentlicher Schlüssel"
+
+#: th23-subscribe-pro-lang.php:201
+msgid "Secret Key"
+msgstr "Privater Schlüssel"
+
+#: th23-subscribe-pro-lang.php:202
+msgid ""
+"Number of days, after which visitors, that have not confirmed their "
+"subscription (via the link provided), will be deleted automatically - set to "
+"\"0\" to disable automatic deletion"
+msgstr ""
+"Anzahl Tage, nach denen ein Besucher, welcher seine Anmeldung nicht (über "
+"den Link per Mail) bestätigt hat, automatisch gelöscht wird - \"0\" "
+"deaktiviert die automatische Löschung"
+
+#: th23-subscribe-pro-lang.php:203 th23-subscribe-admin.php:224
+msgid ""
+"Color of \"call to action\" button in notification mails in hex format - "
+"default is dark red \"#820000\", text on it is always white"
+msgstr ""
+"Farbe der \"Call to Action\" Schaltfläche in Mails im Hex-Format - "
+"standardmäßig dunkel-rot \"#820000\", Textfarbe ist immer weiß"
+
+#: th23-subscribe-pro-lang.php:204
+msgid "Legal information"
+msgstr "Rechtliche Informationen"
+
+#: th23-subscribe-pro-lang.php:206
+msgid "If left empty, &quot;Terms of Usage&quot; will be used"
+msgstr "Wenn leer gelassen, wird &quot;Nutzungsbedingungen&quot; verwendet"
+
+#: th23-subscribe-pro-lang.php:207
+msgid "URL"
+msgstr "URL"
+
+#: th23-subscribe-pro-lang.php:208
+msgid "Can be relative URL - if left empty, no link will be added"
+msgstr "Kann als relative URL angegeben werde - wenn leer gelassen, wird kein Link hinzugefügt"
+
+#: th23-subscribe-pro-lang.php:209
+msgid ""
+"Reference a page providing user with legally required information about "
+"terms of usage, impressum and data privacy policy"
+msgstr ""
+"Seite mit rechtlichen Informationen für die Nutzer zu Nutzungsbedingungen, "
+"Impressum und Datenschutz"
+
+#.   translators: mail title to visitor after being upgrade by an administrator - blog name to be parsed in
+#: th23-subscribe-pro-lang.php:211
+#, php-format
+msgid "[%s] Welcome / Your login and password"
+msgstr "[%s] Willkommen / Dein Benutzername und Passwort"
+
+#.   translators: mail body to visitor after being upgrade by an administrator - 1: blog name, 2: password reset link
+#: th23-subscribe-pro-lang.php:213
+#, php-format
+msgid ""
+"An administrator registered you with your mail address %1$s on %2$s.\n"
+"\n"
+"Your login is %3$s"
+msgstr ""
+"Ein Administrator hat Dich mit der E-Mail Adresse %1$s bei %2$s registriert.\n"
+"\n"
+"Dein Benutzername ist %3$s"
+
+#: th23-subscribe-pro-lang.php:216
+msgid "Please set your password visiting the following address:"
+msgstr "Bitte setze Dein Passwort indem Du folgende Adresse besuchst:"
+
+#: th23-subscribe-pro-lang.php:218
+#, php-format
+msgid ""
+"An error occured, while sending the upgrade notification to visitor with ID: "
+"%s"
+msgstr ""
+"Beim Versand der E-Mail zum Upgrade an den Nutzer mit der folgenden ID ist "
+"ein Fehler aufgetreten: %s"
+
+#: th23-subscribe-pro-lang.php:219 th23-subscribe-admin.php:683
+#: th23-subscribe-admin.php:715 th23-subscribe-admin.php:1103
+msgid "Done"
+msgstr "Fertig"
+
+#: th23-subscribe-pro-lang.php:220
+msgid "Selected visitor(s) have been upgraded"
+msgstr "Ausgewählte(r) Besucher wurden upgegradet"
+
+#: th23-subscribe-pro-lang.php:221 th23-subscribe-admin.php:324
+msgid "Warning"
+msgstr "Warnung"
+
+#: th23-subscribe-pro-lang.php:222
+msgid ""
+"It is not recommended to edit visitors - changing their role or upgrading "
+"will notify them via mail!"
+msgstr ""
+"Es wird nicht empfohlen Besucher zu editieren - Änderung deren Rolle oder "
+"deren Upgrade löst eine Benachrichtigung via E-Mail aus!"
+
+#: th23-subscribe-pro-lang.php:223
+msgid "Delete"
+msgstr "Löschen"
+
+#: th23-subscribe-pro-lang.php:224
+msgid "Upgrade visitor"
+msgstr "Besucher upgraden"
+
+#: th23-subscribe-admin.php:51
+#, php-format
+msgid ""
+"This option is only available with the %1$s version of this plugin - %2$s"
+msgstr ""
+"Diese Option ist nur in der %1$s Version dieses Plugins verfügbar - %2$s"
+
+#: th23-subscribe-admin.php:56
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: th23-subscribe-admin.php:63
+msgid "Allow users to subscribe to new posts being published"
+msgstr "Nutzer können sich über neue Beiträge benachrichtigen lassen"
+
+#: th23-subscribe-admin.php:73 th23-subscribe-admin.php:102
+msgid "Pre-selection"
+msgstr "Vorauswahl"
+
+#: th23-subscribe-admin.php:74 th23-subscribe-admin.php:103
+msgid "Can be changed by user via checkbox"
+msgstr "Kann durch den Nutzer geändert werden"
+
+#: th23-subscribe-admin.php:79
+msgid "Pre-select subscription option upon user registration"
+msgstr "Benachrichtigung als Vorauswahl bei der Registrierung"
+
+#: th23-subscribe-admin.php:86
+msgid "Comments"
+msgstr "Kommentare"
+
+#: th23-subscribe-admin.php:92
+msgid "Allow users to subscribe to responses and further comments"
+msgstr "Nutzer können sich über Antworten und neue Kommentare benachrichtigen lassen"
+
+#: th23-subscribe-admin.php:108
+msgid "Pre-select subscription option upon writing a comment"
+msgstr "Benachrichtigung als Vorauswahl beim Schreiben eines Kommentars"
+
+#: th23-subscribe-admin.php:117
+msgid "Visitors"
+msgstr "Besucher"
+
+#: th23-subscribe-admin.php:118
+msgid "Visitor subscriptions"
+msgstr "Besucher Abonnements"
+
+#: th23-subscribe-admin.php:124
+msgid ""
+"Allow visitors to subscribe to new posts and comments without being "
+"regsitered"
+msgstr ""
+"Besucher können sich ohne Registrierung über neue Beiträge und Kommentare "
+"benachrichtigen lassen"
+
+#: th23-subscribe-admin.php:135
+msgid "Terms"
+msgstr "Nutzungsbedingungen"
+
+#: th23-subscribe-admin.php:141
+msgid ""
+"Visitors are required to accept terms of usage to be able to subscribe to "
+"new posts and to upgrade becoming a registered user"
+msgstr ""
+"Besucher müssen den Nutzungsbedingungen zustimmen um Benachrichtigungen über "
+"neue Beiträge zu erhalten oder zu einem registrierten Nutzer upzugraden"
+
+#.   translators: parses in "reCaptcha" as name of the service
+#: th23-subscribe-admin.php:152
+#, php-format
+msgid "Enable %s"
+msgstr "%s aktivieren"
+
+#.   translators: parses in "reCaptcha v2" as name of the service
+#: th23-subscribe-admin.php:159
+#, php-format
+msgid "Use %s to check visitor subscriptions stopping spam and bots"
+msgstr "Aktiviere %s um Anmeldungen von Besuchern zu überprüfen um Spam und Bots zu stoppen"
+
+#: th23-subscribe-admin.php:172
+msgid "Delete unconfirmed"
+msgstr "Unbestätigte löschen"
+
+#: th23-subscribe-admin.php:185
+msgid ""
+"Time span in seconds after which previous notifications to the same user/ "
+"for the same item will be ignored - set to \"0\" to only send a new "
+"notification after user visited the site"
+msgstr ""
+"Zeitspanne nach der vorherige Benachrichtiungen für den gleichen Nutzer / "
+"das gleiche Thema ignoriert werden - setze dies auf \"0\" um Nutzern nur "
+"nach dem Besuch der Webseite eine weitere Benachrichtigung zu senden"
+
+#: th23-subscribe-admin.php:186
+msgid ""
+"Warning: A very short time frame might lead to spamming users with "
+"notifications!"
+msgstr ""
+"Warnung: Eine sehr kurze Zeitspanne kann dazu führen, dass der Nutzer mit "
+"Benachrichtigungen gespamt wird!"
+
+#: th23-subscribe-admin.php:187
+msgid ""
+"Note: For 1 minute enter \"60\", for 1 hour enter \"3600\", for 1 day enter "
+"\"86400\" and for 1 week enter \"604800\"."
+msgstr ""
+"Hinweis: Für eine Minute \"60\", für eine Stunde \"3600\", für ein Tag \""
+"86400\" und für eine Woche \"604800\" eingeben."
+
+#: th23-subscribe-admin.php:190
+msgid "Notifications"
+msgstr "Benachrichtigungen"
+
+#: th23-subscribe-admin.php:191
+msgid "Ignore old notifications"
+msgstr "Alte Benachrichtigungen ignorieren"
+
+#: th23-subscribe-admin.php:199
+msgid "Batch size"
+msgstr "Chargengröße"
+
+#: th23-subscribe-admin.php:200
+msgid ""
+"Maximal number of notifications/ mails to be sent in one batch to avoid "
+"failure due to host restrictions, spam filters, etc. - set to \"0\" to send "
+"all at once"
+msgstr ""
+"Maximale Anzahl von Benachrichtigungen / E-Mails die in einer Charge "
+"verschickt werden um Fehler durch Server-Restriktionen, Spam-Filter etc. zu "
+"vermeiden - setze dies auf \"0\" um alles auf einmal zu versenden"
+
+#: th23-subscribe-admin.php:210
+msgid "Batch delay"
+msgstr "Verzögerung"
+
+#: th23-subscribe-admin.php:211
+msgid "Idle time period between sending batches in seconds"
+msgstr "Zeitspanne zwischen dem Versand jeder Charge"
+
+#: th23-subscribe-admin.php:223
+msgid "Button color"
+msgstr "Farbe der Schaltfläche"
+
+#: th23-subscribe-admin.php:235
+msgid ""
+"Duration in seconds until overlay messages shown to the user upon subscribe/ "
+"unsubscribe disappears automatically - set to \"0\" for not disappearing "
+"automatically"
+msgstr ""
+"Dauer in Sekunden nach der Einblendungen zu An-/Abmeldungen automatisch "
+"verschwinden - setze dies auf \"0\" um automatisches Ausblenden zu "
+"deaktivieren"
+
+#: th23-subscribe-admin.php:236
+msgid ""
+"Note: Error messages and overlays requiring user input will never disappear "
+"automatically!"
+msgstr ""
+"Hinweis: Fehler und Einblendungen die eine Nutzereingabe erfordern "
+"verschwinden nie automatisch!"
+
+#: th23-subscribe-admin.php:239
+msgid "General"
+msgstr "Allgemein"
+
+#: th23-subscribe-admin.php:240
+msgid "Overlay message time"
+msgstr "Anzeigedauer für Einblendungen"
+
+#: th23-subscribe-admin.php:251
+msgid "Log"
+msgstr "Protokoll"
+
+#.   translators: adds the logfile name
+#: th23-subscribe-admin.php:253
+#, php-format
+msgid ""
+"The logfile is kept in the plugin folder and named %s - to reset, delete the "
+"file"
+msgstr ""
+"Das Protokoll liegt als Datei mit dem Namen %s im Plugin-Ordner - zum "
+"Zurücksetzen, lösche die Datei"
+
+#: th23-subscribe-admin.php:258
+msgid "Keep a logfile about subscription actions"
+msgstr "Protokoll über Benachrichtigungsaktionen führen"
+
+#: th23-subscribe-admin.php:265
+msgid "Reset cache"
+msgstr "Cache zurücksetzen"
+
+#: th23-subscribe-admin.php:270
+msgid ""
+"Delete cached content of entries / comments prepared for sending "
+"notifications - will be recreated automatically, when needed"
+msgstr ""
+"Lösche den Cache der Inhalte von Beiträgen / Kommentaren welche für den "
+"Versand von Benachrichtigungen vorbereitet wurden - diese werden automatisch "
+"neu erstellt, wenn sie benötigt werden"
+
+#.   translators: "Professional" as name of the version
+#: th23-subscribe-admin.php:315
+#, php-format
+msgid "Upgrade to %s version"
+msgstr "Auf Version %s upgraden"
+
+#: th23-subscribe-admin.php:324
+msgid ""
+"Your are running a multisite installation - the plugin is not designed for "
+"this setup and therefore might not work properly"
+msgstr ""
+"Du benutzt eine \"Multisite\" Installation - dieses Plugin ist nicht darauf "
+"ausgelegt und wird daher möglicherweise nicht korrekt funktionieren"
+
+#.   translators: 1: "Professional" as name of the version, 2: "...-pro.php" as file name, 3: version number of the PRO file, 4: version number of main file, 5: link to WP update page, 6: link to "th23.net" plugin download page
+#: th23-subscribe-admin.php:329
+#, php-format
+msgid ""
+"The version of the %1$s file (%2$s, version %3$s) does not match with the "
+"overall plugin (version %4$s) - please make sure you update the overall "
+"plugin to the latest version via the <a href=\"%5$s\">automatic update "
+"function</a> and upload the latest version of the %1$s file from %6$s onto "
+"your webserver"
+msgstr ""
+"Die Version der %1$s Datei (%2$s, Versionsnummer %3$s) stimmt nicht mit der "
+"Version des restlichen Plugins (Versionsnummer %4$s) überein - bitte führe "
+"ein Update auf die neuste Version dieses Plugins mittels <a href=\"%5$s\">"
+"automatischem Update</a> durch und lade die neuste Version der %1$s Date von "
+"%6$s auf Deinen Server hoch"
+
+#: th23-subscribe-admin.php:523
+msgid "Visitor"
+msgstr "Besucher"
+
+#: th23-subscribe-admin.php:600
+msgid "Settings"
+msgstr "Einstellungen"
+
+#.   translators: parses in plugin version number (optionally) together with upgrade link
+#: th23-subscribe-admin.php:611 th23-subscribe-admin.php:615
+#: th23-subscribe-admin.php:928 th23-subscribe-admin.php:932
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+#: th23-subscribe-admin.php:619 th23-subscribe-admin.php:940
+msgid "Support"
+msgstr "Hilfe"
+
+#: th23-subscribe-admin.php:683
+msgid "Cache cleared"
+msgstr "Cache geleert"
+
+#: th23-subscribe-admin.php:715
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: th23-subscribe-admin.php:793
+msgid "+"
+msgstr "+"
+
+#: th23-subscribe-admin.php:855
+msgid "-"
+msgstr "-"
+
+#: th23-subscribe-admin.php:917 th23-subscribe-admin.php:1113
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#.   translators: parses in plugin author name
+#: th23-subscribe-admin.php:938
+#, php-format
+msgid "By %s"
+msgstr "Von %s"
+
+#: th23-subscribe-admin.php:943
+msgid "Visit plugin site"
+msgstr "Plugin Homepage besuchen"
+
+#.   translators: 1: option name, 2: opening a tag of link to support/ plugin page, 3: closing a tag of link
+#: th23-subscribe-admin.php:1017
+#, php-format
+msgid ""
+"Invalid combination of input field and default value for \"%1$s\" - please "
+"%2$scontact the plugin author%3$s"
+msgstr ""
+"Ungültige Kombination von Eingabefeld und Default für \"%1$s\" - bitte %2$"
+"skontaktiere den Plugin Author%3$s"
